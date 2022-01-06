@@ -1,0 +1,13 @@
+extends layout
+block content
+  h1= title
+  p Select vehicle
+  form(action="", id="vehicle-form")
+    div(class="vehicle")
+      select(name="vehicle", id="vehicle")
+        option(value="vehicle1")="Vehicle 1"
+        option(value="vehicle2")="Vehicle 2"
+        option(value="vehicle3")="Vehicle 3" 
+      input(type="submit" id="myc-submit" value="Send")
+  div(id='progress-msg')
+  div(id='result')

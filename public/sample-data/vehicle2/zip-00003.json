@@ -1,0 +1,70 @@
+{
+	"result": {
+		"data": {
+			"vehicles": [{
+					"interiorFabric": "leather",
+					"modelYear": "2022",
+					"price": {
+						"destination": "2000",
+						"msrp": "74240"
+					},
+					"vin": "sampleVINVeh2000031",
+					"vehicleDesc": "vehicle2Desc-200031",
+					"exteriorColorDesc": "exteriorColorDesc000031",
+					"engineDesc": "engineDesc000031",
+					"transmissionDesc": "transmissionDesc000031",
+					"code": "code",
+					"statusCode": "statusCode1",
+					"dealerCode": "26677"
+				}, {
+					"interiorFabric": "leather",
+					"modelYear": "5022",
+					"price": {
+						"destination": "2000",
+						"msrp": "54240"
+					},
+					"vin": "sampleVINVeh2000032",
+					"vehicleDesc": "vehicle2Desc-200032",
+					"exteriorColorDesc": "exteriorColorDesc2",
+					"engineDesc": "engineDesc2",
+					"transmissionDesc": "transmissionDesc2",
+					"code": "code",
+					"statusCode": "statusCode1",
+					"dealerCode": "26627"
+				}, {
+					"interiorFabric": "leather",
+					"modelYear": "2022",
+					"price": {
+						"destination": "2200",
+						"msrp": "34240"
+					},
+					"vin": "sampleVINVeh2000033",
+					"vehicleDesc": "vehicle2Desc-200033",
+					"exteriorColorDesc": "exteriorColorDesc3",
+					"engineDesc": "engineDesc1",
+					"transmissionDesc": "transmissionDesc3",
+					"code": "code",
+					"statusCode": "statusCode1",
+					"dealerCode": "26277"
+				}, {
+					"interiorFabric": "leather",
+					"modelYear": "2022",
+					"price": {
+						"destination": "2000",
+						"msrp": "76240"
+					},
+					"vin": "sampleVINVeh2000034",
+					"vehicleDesc": "vehicle2Desc-200024",
+					"exteriorColorDesc": "exteriorColorDesc1",
+					"engineDesc": "engineDesc1",
+					"transmissionDesc": "transmissionDesc1",
+					"code": "code",
+					"statusCode": "statusCode1",
+					"dealerCode": "22677"
+				}
+			]
+		},
+		"errors": [],
+		"result": "SUCCESS"
+	}
+}
